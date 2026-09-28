@@ -92,7 +92,7 @@ git commit -m "Initial Commit"
 ```
 
 ##### Screenshots:
-![alt text](images/gitint.png)
-![alt text](images/gitstatus.png)
-![alt text](images/gitadd.png)
-![alt text](images/gitcommit.png)
+![git init (Shell)](images/gitint.png)
+![git status (Shell)](images/gitstatus.png)
+![git add (Shell)](images/gitadd.png)
+![git commit (Shell)](images/gitcommit.png)
